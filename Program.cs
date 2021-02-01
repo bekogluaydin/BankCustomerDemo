@@ -28,8 +28,7 @@ namespace BankCustomerDemo
             Console.WriteLine("Müşteri 2'yi Sildikten sonra!");
             musteriManager.CustomerList();
 
-            //musteriManager.CustomerAdding(deneme);
-
+    
         }
     }
 }
